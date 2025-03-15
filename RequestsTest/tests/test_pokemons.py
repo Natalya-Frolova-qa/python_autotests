@@ -8,8 +8,8 @@ TRAINER_ID = 22853
 
 body_registration = {
     "trainer_token":TOKEN,
-    "email":"milana-01@yandex.ru",
-    "password":"011208NNN3-qwas"
+    "email":"User_login",
+    "password":"User_password"
 }
 
 
